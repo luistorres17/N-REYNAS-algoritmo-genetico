@@ -1,0 +1,1 @@
+# N-Reynas-Algoritmo-Genetico
